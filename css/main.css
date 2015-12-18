@@ -1,0 +1,27 @@
+textarea {
+  float:left;
+  height:100em;
+  width:20em;
+  margin-right : 50px;
+}
+#grid {
+  position:relative;
+  float:left;
+}
+.register {
+  font-family:monospace;
+  border:1px solid black;
+  position:absolute;
+  width:20em;
+  background:white;
+}
+.register .name {
+  cursor:move;
+}
+.register .value
+{
+  font-size:70%;
+  border:1px solid black;
+  /*display:inline;*/
+}
+
